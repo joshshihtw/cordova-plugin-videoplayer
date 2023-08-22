@@ -10,7 +10,7 @@ A Cordova plugin that simply allows you to immediately play a video in fullscree
 將 plugin 放到 cordova 目錄內
 
 ```
-cordova plugin add ./SignagePlayer --link
+cordova plugin add ./cordova-plugin-videoplayer --link
 ```
 
 ## Example
